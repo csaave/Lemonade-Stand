@@ -1,0 +1,7 @@
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\bin\Debug\Lemonade Stand.exe.config
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\bin\Debug\Lemonade Stand.exe
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\bin\Debug\Lemonade Stand.pdb
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\obj\Debug\Lemonade Stand.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\obj\Debug\Lemonade Stand.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\obj\Debug\Lemonade Stand.exe
+C:\Users\Christopher\source\repos\Lemonade Stand\Lemonade Stand\obj\Debug\Lemonade Stand.pdb
